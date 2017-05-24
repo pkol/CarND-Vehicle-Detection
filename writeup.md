@@ -1,4 +1,4 @@
-##Writeup _Vehicle Detection Project_
+## Writeup _Vehicle Detection Project_
 
 Paweł Kołodziej <p.kolodziej@gmail.com>
 
@@ -40,9 +40,9 @@ input image:
 
 ![](output_images/103_01_input.png)
 H, L & S channels:
-![](output_images/103_02_img H.png)
-![](output_images/103_03_img L.png)
-![](output_images/103_04_img S.png)
+![](output_images/103_02_img_H.png)
+![](output_images/103_03_img_L.png)
+![](output_images/103_04_img_S.png)
 
 HOG in H, L and S:
 ![](output_images/103_05_HOG(H).png)
@@ -52,9 +52,9 @@ HOG in H, L and S:
 And the same for non-car image:
 ![](output_images/image420_01_input.png)
 H, L & S channels:
-![](output_images/image420_02_img H.png)
-![](output_images/image420_03_img L.png)
-![](output_images/image420_04_img S.png)
+![](output_images/image420_02_img_H.png)
+![](output_images/image420_03_img_L.png)
+![](output_images/image420_04_img_S.png)
 
 HOG in H, L and S:
 ![](output_images/image420_05_HOG(H).png)
@@ -160,29 +160,29 @@ determining bounding boxes very small detections are rejected (area smaller then
 
 
 ![](output_images/video/project_video.mp4_0021__01_input.png)
-![](output_images/video/project_video.mp4_0021__02_heat map.png)
-![](output_images/video/project_video.mp4_0021__04_video hmap.png)
+![](output_images/video/project_video.mp4_0021__02_heat_map.png)
+![](output_images/video/project_video.mp4_0021__04_video_hmap.png)
 
 ![](output_images/video/project_video.mp4_0022__01_input.png)
-![](output_images/video/project_video.mp4_0022__02_heat map.png)
-![](output_images/video/project_video.mp4_0022__04_video hmap.png)
+![](output_images/video/project_video.mp4_0022__02_heat_map.png)
+![](output_images/video/project_video.mp4_0022__04_video_hmap.png)
 
 ![](output_images/video/project_video.mp4_0023__01_input.png)
-![](output_images/video/project_video.mp4_0023__02_heat map.png)
-![](output_images/video/project_video.mp4_0023__04_video hmap.png)
+![](output_images/video/project_video.mp4_0023__02_heat_map.png)
+![](output_images/video/project_video.mp4_0023__04_video_hmap.png)
 
 ![](output_images/video/project_video.mp4_0024__01_input.png)
-![](output_images/video/project_video.mp4_0024__02_heat map.png)
-![](output_images/video/project_video.mp4_0024__04_video hmap.png)
+![](output_images/video/project_video.mp4_0024__02_heat_map.png)
+![](output_images/video/project_video.mp4_0024__04_video_hmap.png)
 
 ![](output_images/video/project_video.mp4_0025__01_input.png)
-![](output_images/video/project_video.mp4_0025__02_heat map.png)
-![](output_images/video/project_video.mp4_0025__04_video hmap.png)
+![](output_images/video/project_video.mp4_0025__02_heat_map.png)
+![](output_images/video/project_video.mp4_0025__04_video_hmap.png)
 
 
 ![](output_images/video/project_video.mp4_0026__01_input.png)
-![](output_images/video/project_video.mp4_0026__02_heat map.png)
-![](output_images/video/project_video.mp4_0026__04_video hmap.png)
+![](output_images/video/project_video.mp4_0026__02_heat_map.png)
+![](output_images/video/project_video.mp4_0026__04_video_hmap.png)
 
 
 
